@@ -1,0 +1,8 @@
+{
+  "name": "this-world-summons-too-many-heroes",
+  "title": "This World Summons Too Many Heroes",
+  "description": "Un test pour vérifier l'installation.",
+  "version": "1.0.0",
+  "scripts": ["scripts/rolls.js"],
+  "styles": ["styles/styles.css"]
+}
