@@ -1,0 +1,15 @@
+{
+  "name": "This World Summons Too Many Heroes!",
+  "title": "This World Summons Too Many Heroes!",
+  "description": "Système de jeu pour 'This World Summons Too Many Heroes!'",
+  "version": "1.0.0",
+  "scripts": ["scripts/rolls.js"],
+  "styles": ["styles/styles.css"],
+  "url": "https://raw.githubusercontent.com/TresHautMat/this-world-summons-too-many-heroes/main/system.json",
+  "authors": [
+    {
+      "name": "Ton Nom",
+      "url": "https://tonsiteweb.com"
+    }
+  ]
+}
